@@ -1,0 +1,2 @@
+# Carteret-County-Wiki
+A Wikipedia for all things Carteret County. (THIS IS NOT FINISHED AT ALL! PLEASE DO A PULL REQUEST IF YOU WOULD LIKE TO ADD MISSING INFORMATION)
